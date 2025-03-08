@@ -85,4 +85,4 @@ exit
 - La clase DescargarFTP es secundaria, al ejecutarse te mostrara los archivos en el contenedor y te pedira un numero para descifrarlo y descargarlo.
 
 ### **5. Comandos**
-- Escribir "parar" en la terminal sin importar mayusculas dentendra el proyecto en cuanto pueda
+- Escribir "parar" en la terminal sin importar mayusculas detendra el proyecto en cuanto pueda
