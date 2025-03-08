@@ -1,0 +1,4 @@
+com\mycompany\gestorftp\DescargarFTP.class
+com\mycompany\gestorftp\ManejarCifrado.class
+com\mycompany\gestorftp\TareaSincronizacion.class
+com\mycompany\gestorftp\GestorFTP.class
