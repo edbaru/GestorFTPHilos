@@ -86,3 +86,6 @@ exit
 
 ### **5. Comandos**
 - Escribir "parar" en la terminal sin importar mayusculas detendra el proyecto en cuanto pueda
+
+## 🎥 Video Explicativo
+[![Video de GestorFTP](https://img.youtube.com/vi/p7u42dqPXl0/0.jpg)](https://youtu.be/p7u42dqPXl0)
